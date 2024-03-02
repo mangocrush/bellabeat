@@ -947,7 +947,7 @@ hourly_data <-
   )
 ```
 
-###  weekly_data
+### weekly_data
 
 Finally, we'll create a `weekly_data` dataframe using data from `daily_data`:
 
@@ -2216,7 +2216,7 @@ How do these smart device users group across the below three achievement rates?
 
 <center>
 
-![Achievement Rate Groups](images/Achievement Rate Groups.png)
+![Achievement Rate Groups](images/Achievement%20Rate%20Groups.png)
 
 </center>
 
@@ -2242,7 +2242,7 @@ How do these smart device users group across the below three achievement rates?
 
 This is my presentation:
 
--   link
+-   [Stakeholder Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTR29re7AGEb1QlJHK34ssl9ujghbFWdGm-l9HdMxx1NeOBmttng94qSBC_4SZumNN5lXtIcgNhdRPt/pub?start=false&loop=false&delayms=10000)
 
 It it, you can find:
 
